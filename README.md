@@ -17,7 +17,7 @@ Dalla storia delle analisi geografiche a QGIS. In questo modulo capiremo le logi
 * Introduzione ai Sistemi Informativi Geografici
 * cosa significa GIS e come viene impiegato 
 * dalla mappa di John Snow ai satelliti
-* QGIS: introduzione e intefaccia
+* QGIS: introduzione e intefaccia  
   Primi dati in QGIS:
 * come sono strutturati i dati (lo shapefile, ecc.)
 * caricamento vettore (shapefile comuni Veneto)
