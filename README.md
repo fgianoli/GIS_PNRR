@@ -12,7 +12,7 @@ Tutti i dati e i materiali, salvo dove è specificatamente indicato, sono destin
 
 Dalla storia delle analisi geografiche a QGIS. In questo modulo capiremo le logiche che stanno dietro ai Sistemi Informativi Geografici partendo dalla storia di John Snow fino al Geomarketing. Si introdurrà il software QGIS e si familiarizzerà con l'interfaccia e i vari modelli di dati spaziali (raster e vettoriali). Si utilizzeranno i plugin di QGIS per contestualizzare i dati e caricare le basemap.
 
- ### Modulo 1 - introduzione al GIS
+ ### Introduzione al GIS
 
 * Introduzione ai Sistemi Informativi Geografici
 * cosa significa GIS e come viene impiegato 
@@ -34,7 +34,7 @@ Dalla storia delle analisi geografiche a QGIS. In questo modulo capiremo le logi
 
 Punti linee poligoni: in questo secondo modulo si affronterà la tematica dei Sistemi di Riferimento (SR) e di come ci si posiziona sulla Terra. Si lavorerà con dataset vettoriali (importazione, interrogazione, stilizzazione) e si faranno delle prime query spaziali utilizzando dati vettoriali e semplici interrogazioni SQL. Si lavorerà sulla tabella attributi dei dati spaziali, per capire l’importanza delle informazioni collegate alle geometrie e come si selezionano e filtrano i dati, sulla base del contenuto informativo o delle relazioni spaziali.
 
-### Modulo 2 - dati vettoriali
+### Dati vettoriali
 
 * Sistemi di Riferimento:
 * Sistemi di riferimento e proiezioni
@@ -49,7 +49,7 @@ Punti linee poligoni: in questo secondo modulo si affronterà la tematica dei Si
 
 Dal punto al pixel: il terzo modulo è dedicato ai raster, per la rappresentazione di grandezze continue come le quote del terreno. Si lavorerà sulla stilizzazione di questi dati, sull’estrazione di informazioni vettoriali (punti quotati, isolinee, profili) e sull’interpolazione di un dataset di dati rilevati. Si affronterà il processo di georeferenziazione della cartografia. Esercitazione sull’analisi del cambiamento climatico nelle zone urbane con dati dell'ARPAV.
 
-### Modulo 3 - dati raster
+### Dati raster
 
 * Raster: introduzione
 * Data mining: download DTM Este da Geoportale Veneto
@@ -63,7 +63,7 @@ Dal punto al pixel: il terzo modulo è dedicato ai raster, per la rappresentazio
 
 Dai satelliti al GIS: il quarto modulo è dedicato alla digitalizzazione e vettorializzazione della cartografia a partire da dataset ottenuti tramite remote sensing, e ai primi tool di geoprocessing. Si considereranno quindi gli strumenti disegno CAD in GIS e le prime analisi spaziali come il “buffer”
 
-### Modulo 4 - digitalizzazione
+### Digitalizzazione
 
 * Georeferenziazione: PDF piano interventi Este
 * Fotogrammetria per creazione ortofoto e DEM
@@ -81,7 +81,7 @@ Dai satelliti al GIS: il quarto modulo è dedicato alla digitalizzazione e vetto
 
 Cosa si vede da...: lezione dedicata a strumenti di geoprocessing più avanzati, come la viewshed analysis. Esercitazione dedicata all’analisi della visibilità urbana. Si concluderà il corso affrontando il layout di stampa di QGIS per l’esportazione di apposite tavole geografiche.
 
-### Modulo 5 - geoprocessing e stampa
+### Geoprocessing e stampa
 
 * Layout di stampa:
 creazione tavola con rilievo da drone
