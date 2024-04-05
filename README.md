@@ -1,4 +1,4 @@
- # INTRODUZIONE AI GIS
+ # Percorso GIS: un viaggio attraverso la costruzione, l’ambiente e il territorio per studenti
 
 * Necessità aula informatica.
 * Connessione internet.
